@@ -1,1 +1,3 @@
 public static int methodName(){...}
+
+public static int method3(){...}
